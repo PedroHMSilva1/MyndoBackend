@@ -4,17 +4,9 @@ Projeto feito em dupla com : https://github.com/Farrush
 
 Este projeto consiste em uma aplicação frontend desenvolvida com Angular e um backend em Java, utilizando frameworks e ferramentas populares para cada tecnologia.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-Frontend
-
-Angular
-
-TypeScript
-
-Bootstrap ou outra biblioteca de estilos (opcional)
-
-Ferramentas adicionais: Angular CLI
+Angular CLI
 
 Backend
 
@@ -26,6 +18,8 @@ Spring Web
 
 Spring Data JPA
 
-Banco de Dados: MySQL, H2
+# Banco de Dados:
+MySQL, H2
 
-Ferramentas adicionais: Maven 
+# Ferramentas adicionais:
+Maven 
